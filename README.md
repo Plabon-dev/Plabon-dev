@@ -7,7 +7,7 @@ Hello there! 👋 I'm a passionate front-end developer with a keen proficiency i
 
 
 ## 🌐 Contact:
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>  (https://www.linkedin.com/in/Asaduzzaman Plabon/)  
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>  ([https://www.linkedin.com/in/Asaduzzaman Plabon/](https://www.linkedin.com/in/asaduzzaman-plabon-2b7917241?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
 <p>Email: asadplabon.dev@gmail.com</p>
 
 ## 💻 Tech Stack:
