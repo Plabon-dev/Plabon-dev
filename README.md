@@ -7,6 +7,7 @@ Hello there! 👋 I'm a passionate front-end developer with a keen proficiency i
 
 
 ## 🌐 Socials:
+<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)' alt='linkedin' height='40'>(https://www.linkedin.com/in/Asaduzzaman Plabon/) 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)(https://linkedin.com/in/Asaduzzman Plabon) 
 
 # 💻 Tech Stack:
